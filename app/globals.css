@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Plus+Jakarta+Sans&family=Public+Sans&display=swap");
+
+body {
+  -webkit-text-size-adjust: 100%;
+  margin: 0;
+  background-color: #fefbf6;
+}
+
+th {
+  text-align: -webkit-match-parent;
+}
+
+#logo {
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  color: #1f2d89;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.nav-link {
+  color: #1f2d89;
+}
+
+.pageLayout {
+  height: auto;
+  min-height: 75vh;
+  padding: 60px 10px;
+}
+
+.subHeading {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
