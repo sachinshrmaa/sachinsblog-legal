@@ -20,11 +20,14 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ms-auto">
-            <Link href="/support/about" className="nav-link">
-              About
+            <Link href="https://sachinsblog.in" className="nav-link">
+              Blog
             </Link>
-            <Link href="/support/contact" className="nav-link ms-md-3">
-              Contact
+            <Link
+              href="https://thebasics.sachinsblog.in"
+              className="nav-link ms-md-3"
+            >
+              Masterclass
             </Link>
           </div>
         </div>
